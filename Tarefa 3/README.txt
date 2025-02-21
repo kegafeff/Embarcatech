@@ -1,7 +1,7 @@
 Tarefa - Linguagens e Ambiente de Programação
 1. Contextualização 
 
-          Um aluno do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRN – campus Central tem um familiar com deficiência visual e ele sempre atravessa cruzamentos nas vias de Natal para chegar ao trabalho ou estudar.  Dessa forma, o aluno de TADS está desenvolvendo um sinal sonoro de baixo custo para ajudar o seu familiar na travessia de faixas de pedestres da cidade.
+Um aluno do curso de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRN – campus Central tem um familiar com deficiência visual e ele sempre atravessa cruzamentos nas vias de Natal para chegar ao trabalho ou estudar.  Dessa forma, o aluno de TADS está desenvolvendo um sinal sonoro de baixo custo para ajudar o seu familiar na travessia de faixas de pedestres da cidade.
           
 2. Objetivos
 
@@ -10,6 +10,7 @@ Sinal sonoro indicando permissão para pedestres atravessarem.
 Botão de acionamento para deficientes visuais que desencadeia uma sequência de fechamento do sinal de trânsito para veículos, permitindo a travessia segura em todas no cruzamento da via. 
 
 3. Descrição do Projeto
+
 Componentes Virtuais no Wokwi: 
 Raspberry Pi Pico W para controle lógico. 
 LEDs:
@@ -25,6 +26,7 @@ Se possível, utilize funções e variáveis para simplificar o controle.
 Funcionamento do Sistema 
 
 4. Estado Inicial: 
+
 Os LEDs para carros alternarão automaticamente (verde -> amarelo -> vermelho) seguindo uma lógica de tempo fixa (ex.: 8 segundos no verde, 2 no amarelo, 10 no vermelho). 
 O LED verde para pedestres estará desligado e o buzzer ficará inativo. 
 Quando o botão é pressionado: 
