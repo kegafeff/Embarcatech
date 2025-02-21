@@ -3,8 +3,7 @@ Este repositório contém as atividades desenvolvidas durante a Fase 1 do Progra
 💾 Conteúdo:
 ✔️ Exercícios práticos
 ✔️ Projetos desenvolvidos
-✔️ Documentação das atividades
-✔️ Relatórios técnicos
+
 
 Este repositório serve como um registro do aprendizado e da evolução ao longo da fase inicial do programa. 🔧📡💡
 
